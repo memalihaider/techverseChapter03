@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/team/2025/page": "app/team/2025/page.js",
+  "/registration/page": "app/registration/page.js",
+  "/team/2026/page": "app/team/2026/page.js",
+  "/admin/team/page": "app/admin/team/page.js"
+}
